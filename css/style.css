@@ -414,7 +414,7 @@ a{
     flex-wrap: wrap;
     max-width: 1160px;
     justify-content: center;
-    /*min-height: 416px;*/
+    min-height: 416px;
 }
 .galleryItem{
     position: relative;
