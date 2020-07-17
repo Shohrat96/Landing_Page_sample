@@ -148,6 +148,7 @@ function render(el) {
         }else if (btnClickCount===2){
             for (let i=0;i<32;i++){
                 galleryItems[i].createElement();
+                
             }
         }
 
