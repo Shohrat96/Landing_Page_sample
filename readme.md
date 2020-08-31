@@ -1,3 +1,5 @@
+Published at: https://shohrat96.github.io/Landing_Page_sample/
+
 ## The task is:
 
 Create page by [psd](./The_Ham_Step_project.psd) layout with dunamic elements.
